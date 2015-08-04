@@ -1,0 +1,8 @@
+---
+applications:
+- name: real-nonsense-bot
+  memory: 512M
+  command: node bot.js
+  timeout: 60
+  env:
+    TOKEN: 93243490:AAGxLgg6sCLSJGsNDd0-aVACr_whcIfD4yY
